@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gabrielle</h1>
-<h3 align="center">Analista de dados | Insights de Negócio | Dashboards |Business Intelligence (BI) | SQL | Business Analyst</h3>
+<h3 align="center">Sou uma analista de dados que fazer novas conexões</h3>
 
-- 🌱 I’m currently learning **Python**
-
-- 🤝 I’m looking for help with **Data Analysis**
-
+- 🌱 Estou aprendendo sobre **Engenharia de Dados**
 - 💬 Ask me about **Anything about data**
-
 - 📫 How to reach me **gabriellecampolina@yahoo.com.br**
 
 <h3 align="left">Connect with me:</h3>
